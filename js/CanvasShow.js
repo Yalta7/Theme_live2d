@@ -101,8 +101,6 @@ const MODELS = [
   ["live2d/uiharu/uiharu.model.json"],
   ["live2d/wed_16/wed_16.model.json"],
   ["live2d/xxb/xxb.model.json"],
-  ["live2d/tororo/assets/tororo.model.json"],
-  ["live2d/hijiki/assets/hijiki.model.json"]
 ]
 
 let xuexiaoban = document.createElement("div");
