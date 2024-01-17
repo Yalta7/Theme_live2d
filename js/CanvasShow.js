@@ -175,6 +175,10 @@ const config = {
     scale: 1, // 移动设备上的缩放
     motion: true, // 移动设备是否开启重力感应
   },
+  name: {
+    'canvas': "live2dcanvas",
+    'div': "live2d-widget",
+  },
   react: {
     opacityDefault: 1, // 默认透明度
     opacityOnHover: 1, // 鼠标移上透明度
