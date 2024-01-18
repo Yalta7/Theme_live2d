@@ -2,7 +2,7 @@
 ### live2d
 项目源于GitHub上一个大神的，以下是源码地址，可去自行查看<br>
 源码: https://github.com/imuncle/live2d<br>
-与此同时还发现了一个大神把我想做不知道怎么做的东西实现出来了，就是把live2d搬到电脑桌面上(好像支持Mac上，有兴趣的可以去看看)<br>
+与此同时还发现了一个大神把我想做不知道怎么做的东西实现出来了，就是把live2d搬到电脑桌面上(好像只支持Mac系统，有兴趣的可以去看看)<br>
 源码：https://github.com/fguby/Electron-elf
 #### Canvas show 配置
 ##### 字段说明
